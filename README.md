@@ -6,8 +6,8 @@ Repositorio prueba
 
 Ejercicios de git
 
-![Github log](/Captura commit.PNG)
+![Github log](Captura commit.PNG)
 
-![Git log](/Captura commit2.PNG)
+![Git log](Captura commit2.PNG)
 
-![comits](/Captura git.PNG)
+![comits](Captura git.PNG)
